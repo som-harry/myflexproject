@@ -115,7 +115,7 @@ footer{
     display: flex;
     align-items: flex-end;
     margin-top: 5px;
-    background-color: rgb(180, 180, 180);
+    /* background-color: rgb(180, 180, 180); */
 }
 .footers{
     width: 40px;
@@ -125,7 +125,7 @@ footer{
     margin-left: 10px;
 }
 .feet{
-   /* color: grey; */
+   color: grey;
    margin-top: 15px;
    margin-left: 10px;
    font-size: 12px;
