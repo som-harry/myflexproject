@@ -149,6 +149,10 @@ footer{
         margin-top: 30px;
         flex-basis: 400px;
         height: 470px;
+        justify-content: center;
+   }
+   .container{
+       justify-content: center;
    }
    .image{
     width: 400px;
